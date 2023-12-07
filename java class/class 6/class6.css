@@ -1,0 +1,22 @@
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+} 
+
+#decrease{
+    text-align: left;
+    background-color: pink;
+    font-size: 20px;
+}
+#reset{
+    text-align: center;
+    background-color: red;
+    font-size: 20px;
+
+}
+#increase{
+    text-align: right;
+    background-color: purple;
+    font-size: 20px;
+}
